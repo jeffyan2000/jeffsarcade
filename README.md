@@ -1,2 +1,2 @@
 # jeffsarcade
-open source arcade mini games
+Some mini games made in the early years.
